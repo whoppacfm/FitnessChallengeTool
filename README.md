@@ -1,1 +1,1 @@
-# FitnessChallengeTool
+# Fitness Challenge Tool
